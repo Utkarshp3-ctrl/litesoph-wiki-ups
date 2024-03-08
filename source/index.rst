@@ -17,6 +17,8 @@ Contents
 
 .. toctree::
    about_LITESOPH
+   People
+   Installation
    feature_and_implementations/features_and_implementation     
    user_documentation/user_documentation_index
    devel/devel
